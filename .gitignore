@@ -1,1 +1,3 @@
 venv/
+src/database/main.db
+src/alembic/versions/*
